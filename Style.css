@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(60, 60, 60);
+    font-family: Arial, Helvetica, sans-serif;
+}
+  
+#background {
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+    top: 20px;
+    background-color: white;
+    width: 600px;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.75);
+}
+  
+h1.title {
+    border-radius: 5px 5px 0px 0px;
+    text-align: center;
+    background-color: rgb(60, 60, 60);
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
+  
+form p {
+    display: inline;
+    line-height: 30px;
+    padding: 0px 10px 0px 10px;
+}
+  
+h2 {
+    padding: 0px 10px 0px 10px;
+}
+  
+input.formSubmit {
+    position: relative;
+    left: 417px;
+    margin: 10px;
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(60, 60, 60);
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
+#inputtext {
+    float: right;
+}
+  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #AB2513;
+}
+  
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+  
+li a:hover {
+    background-color: darkgray;
+}
+  
+h1 {
+    padding: 0px 10px 0px 10px;
+}
